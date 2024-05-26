@@ -4,7 +4,7 @@ body {
   background-color: pink;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 300em) {
   body {
     background-color: blue;
   }
